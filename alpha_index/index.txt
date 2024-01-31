@@ -22,3 +22,7 @@ Project-6 -> PRI Railway Announcement Software✅
 Description - Welcome to PRI Railway Announcement Software, your one-stop solution for generating dynamic and engaging railway announcements. This Python script utilizes various modules to seamlessly convert text to speech, merge audio segments, and create customized announcements for different train schedules. The script ensures the presence of essential files and folders, creating them if missing, and offers a smooth user experience for generating announcements. Just Fill the details of announcement in trainstatus.xlsx or use the Default Data.
 
 Caution⚠⚠⚠ -> For running Project-6 on your device, you need to install ffmpeg first. See this video - https://www.youtube.com/watch?v=DMEP82yrs5g ✅
+
+
+Project-7 -> Smart Library Management System✅
+Description - This project implements a comprehensive Library Management System using Python's Tkinter for the graphical user interface. The Smart Library Management System enables users to efficiently manage library operations, including book lending and return functionalities. With an intuitive and user-friendly interface, patrons can seamlessly interact with the library database, ensuring a smooth experience for both library staff and users.✅
