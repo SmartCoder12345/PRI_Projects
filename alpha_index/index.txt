@@ -1,28 +1,47 @@
-Project-1 -> Secret Code Maker-Breaker✅
-Description - "Secret Code Maker-Breaker" is a fascinating project that allows you to encode and decode messages using various techniques. Create secretive codes to safeguard your messages or unravel encrypted messages to reveal their hidden meaning. Enjoy the excitement of cryptography with this interactive program!✅
+Project-1: Secret Code Maker-Breaker✅
 
+Description:
+"Secret Code Maker-Breaker" is a captivating project enabling you to encode and decode messages using various techniques. Safeguard your messages with secretive codes or decode encrypted messages to unveil their hidden meanings. Immerse yourself in the excitement of cryptography with this interactive program!✅
 
-Project-2 -> Hilarious Name Jumbler✅
-Description - Transform your friend list into a comedy goldmine with the Hilarious Name Jumbler! This project takes ordinary names and turns them into sidesplitting combinations that guarantee laughter.Bring joy and humor to your day by jumbling your friends' names. Perfect for pranks or simply adding a touch of hilarity to your life.Get ready for a laughter-filled experience that will have your friends thanking you for the best name remix of their lives!✅
+Project-2: Hilarious Name Jumbler✅
 
+Description:
+Transform your friend list into a comedy goldmine with the Hilarious Name Jumbler! This project takes ordinary names and turns them into sidesplitting combinations guaranteed to induce laughter. Bring joy and humor to your day by jumbling your friends' names. Perfect for pranks or simply adding a touch of hilarity to your life. Get ready for a laughter-filled experience that will have your friends thanking you for the best name remix of their lives!✅
 
-Project-3 -> Snake-Water-Gun Game✅
-Description - This Python script implements a simple interactive game of Snake-Water-Gun against the computer. The player is prompted to enter their choice ('s' for Snake, 'w' for Water, or 'g' for Gun), and the computer randomly selects its move. The game outcome is then determined based on the rules: Snake beats Water, Water beats Gun, and Gun beats Snake. The results are displayed, indicating whether the player wins, loses, or if the game is tied. The loop continues until the user decides to exit. The code is designed for a fun and engaging gaming experience.✅
+Project-3: Snake-Water-Gun Game✅
 
+Description:
+This Python script implements a simple interactive game of Snake-Water-Gun against the computer. The player is prompted to enter their choice ('s' for Snake, 'w' for Water, or 'g' for Gun), and the computer randomly selects its move. The game outcome is then determined based on the rules: Snake beats Water, Water beats Gun, and Gun beats Snake. The results are displayed, indicating whether the player wins, loses, or if the game is tied. The loop continues until the user decides to exit. The code is designed for a fun and engaging gaming experience.✅
 
-Project-4 -> File Organizer - Declutter Your Folder✅
-Description - The "File Organizer" Python script is designed to bring order to the chaos of your file system. With a simple execution, this script scans a specified folder, identifies unique file extensions, and systematically renames files based on their types. No more ambiguous filenames! This tool not only enhances organization but also provides a visual representation of the various file types present in your directory. Easily customizable and efficient, the script simplifies the process of managing and decluttering your digital workspace.✅
+Project-4: File Organizer - Declutter Your Folder✅
 
+Description:
+The "File Organizer" Python script is designed to bring order to the chaos of your file system. With a simple execution, this script scans a specified folder, identifies unique file extensions, and systematically renames files based on their types. No more ambiguous filenames! This tool not only enhances organization but also provides a visual representation of the various file types present in your directory. Easily customizable and efficient, the script simplifies the process of managing and decluttering your digital workspace.✅
 
-Project-5 -> Wellness Reminder - Stay Energized and Focused✅
-Description - The "Wellness Reminder" script is your virtual wellness companion, seamlessly integrating health prompts into your daily routine. Using Python for audio cues, it encourages hydration, eye exercises, and physical activity at user-defined intervals. With a simple and customizable setup, users can tailor reminders to their preferences. The script logs completed tasks, fostering a healthier work-life balance. Boost your productivity and well-being by effortlessly incorporating these reminders into your daily tasks.✅
+Project-5: Wellness Reminder - Stay Energized and Focused✅
 
+Description:
+The "Wellness Reminder" script is your virtual wellness companion, seamlessly integrating health prompts into your daily routine. Using Python for audio cues, it encourages hydration, eye exercises, and physical activity at user-defined intervals. With a simple and customizable setup, users can tailor reminders to their preferences. The script logs completed tasks, fostering a healthier work-life balance. Boost your productivity and well-being by effortlessly incorporating these reminders into your daily tasks.✅
 
-Project-6 -> PRI Railway Announcement Software✅
-Description - Welcome to PRI Railway Announcement Software, your one-stop solution for generating dynamic and engaging railway announcements. This Python script utilizes various modules to seamlessly convert text to speech, merge audio segments, and create customized announcements for different train schedules. The script ensures the presence of essential files and folders, creating them if missing, and offers a smooth user experience for generating announcements. Just Fill the details of announcement in trainstatus.xlsx or use the Default Data.
+Project-6: PRI Railway Announcement Software✅
 
-Caution⚠⚠⚠ -> For running Project-6 on your device, you need to install ffmpeg first. See this video - https://www.youtube.com/watch?v=DMEP82yrs5g ✅
+Description:
+Welcome to PRI Railway Announcement Software, your one-stop solution for generating dynamic and engaging railway announcements. This Python script utilizes various modules to seamlessly convert text to speech, merge audio segments, and create customized announcements for different train schedules. The script ensures the presence of essential files and folders, creating them if missing, and offers a smooth user experience for generating announcements. Just fill the details of the announcement in trainstatus.xlsx or use the Default Data.✅
 
+Project-7: Smart Library Management System✅
 
-Project-7 -> Smart Library Management System✅
-Description - This project implements a comprehensive Library Management System using Python's Tkinter for the graphical user interface. The Smart Library Management System enables users to efficiently manage library operations, including book lending and return functionalities. With an intuitive and user-friendly interface, patrons can seamlessly interact with the library database, ensuring a smooth experience for both library staff and users.✅
+Description:
+This project implements a comprehensive Library Management System using Python's Tkinter for the graphical user interface. The Smart Library Management System enables users to efficiently manage library operations, including book lending and return functionalities. With an intuitive and user-friendly interface, patrons can seamlessly interact with the library database, ensuring a smooth experience for both library staff and users.✅
+
+Project-8: #Smart_Coder Third Umpire Decision Review System✅
+
+Description:
+"#Smart_Coder Third Umpire Decision Review System" is a Python application designed to assist umpires in making accurate decisions during cricket matches. This system utilizes Tkinter for the graphical user interface (GUI) and OpenCV for video processing. With this system, users can load their own video footage (typically a cricket match) by replacing the provided "clip.mp4" file with their own clip. Once the video is loaded, users can control the playback speed, navigate frame by frame, and make decisions on whether a player is out or not out. This tool aims to enhance the accuracy and efficiency of umpiring decisions, providing a valuable resource for cricket officials and enthusiasts alike.✅
+
+Project-9: Tic-Tac-Toe✅
+
+Description:
+This is a Tic-Tac-Toe game implemented in Python using the Tkinter library for the graphical interface. Players can choose 
+between Player vs Player and Player vs Computer modes. The game features standard Tic-Tac-Toe gameplay mechanics, with 
+players taking turns to place their markers ('X' or 'O') on a 3x3 grid. The game ends when a player achieves a winning 
+combination or when all spaces are filled without a winner.✅
