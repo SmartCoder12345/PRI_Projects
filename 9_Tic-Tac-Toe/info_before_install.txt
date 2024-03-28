@@ -1,0 +1,19 @@
+Project Name: Tic-Tac-Toe Game
+Author: #Smart_Coder
+Version: 1.0
+
+Introduction:
+Welcome to the Tic-Tac-Toe Game! This game provides a classic tic-tac-toe experience where players can compete against each other or against the computer. It offers both single-player and two-player modes, allowing users to enjoy the game according to their preferences.
+
+Features:
+- Player vs Player mode for two players to compete against each other.
+- Player vs Computer mode for players to challenge an AI opponent.
+- Interactive gameplay with visual feedback for moves and game outcomes.
+
+Author:
+The Tic-Tac-Toe Game was developed by #Smart_Coder.
+
+Version History:
+- Version 1.0: Initial release.
+
+Experience the fun and excitement of the Tic-Tac-Toe Game!

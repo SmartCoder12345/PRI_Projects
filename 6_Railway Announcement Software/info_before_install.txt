@@ -1,0 +1,15 @@
+Project Name: Railway Announcement Software
+Author: #Smart_Coder
+Version: 1.0
+
+Introduction:
+Welcome to Railway Announcement Software! This Python program automates the generation of railway announcements based on information provided in an Excel file. It utilizes text-to-speech technology to create announcements in both Hindi and English languages, covering details such as departure city, destination city, train number, train name, and platform number.
+
+Features:
+
+Automated generation of railway announcements.
+Supports announcements in both Hindi and English languages.
+Uses audio segments for different components of announcements.
+Flexibility to customize announcement details through an Excel file.
+Author:
+This program was created by #Smart_Coder.

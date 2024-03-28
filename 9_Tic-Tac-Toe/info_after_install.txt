@@ -1,0 +1,10 @@
+Tic-Tac-Toe Game
+Version: 1.0
+
+Welcome to the Tic-Tac-Toe Game!
+
+Thank you for installing the Tic-Tac-Toe Game. This game offers a classic tic-tac-toe experience with options for single-player and two-player modes. You can compete against another player or challenge the computer to test your skills.
+
+To get started, select either the "Player vs Player" or "Player vs Computer" mode and enjoy the game! Make your moves by clicking on the grid cells, and aim to achieve three in a row to win the game.
+
+For any inquiries or feedback, please report issue here -> https://github.com/SmartCoder12345/PRI_Projects/issues

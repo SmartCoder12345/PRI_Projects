@@ -1,0 +1,15 @@
+Railway Announcement Software
+Version: 1.0
+
+Welcome to Railway Announcement Software!
+
+Thank you for installing Railway Announcement Software. This program automates the generation of railway announcements based on information provided in an Excel file. It utilizes text-to-speech technology to create announcements in both Hindi and English languages, covering details such as departure city, destination city, train number, train name, and platform number.
+
+To use the software, follow these steps:
+
+Ensure that the required folders and files exist as specified in the installation instructions.
+Provide the necessary information in the "trainstatus.xlsx" Excel file for generating announcements.
+Run the program to generate announcements automatically based on the Excel file data.
+Check the "Announcements" folder for the generated announcement files.
+
+For any inquiries or feedback, please report issue here -> https://github.com/SmartCoder12345/PRI_Projects/issues

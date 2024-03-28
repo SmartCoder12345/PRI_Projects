@@ -1,0 +1,28 @@
+Project-1: Secret Code Maker-Breaker
+Project-2: Hilarious Name Jumbler
+Project-3: Snake-Water-Gun Game
+Project-4: File Organizer - Declutter Your Folder
+Project-5: Wellness Reminder - Stay Energized and Focused
+Project-6: Railway Announcement Software
+Project-7: Smart Library Management System
+Project-8: Third Umpire Decision Review System
+Project-9: Tic-Tac-Toe
+
+Secret Code Maker-Breaker: A program for generating and deciphering secret codes for secure communication.
+
+Hilarious Name Jumbler: A fun tool for generating amusing combinations of names or words.
+
+Snake-Water-Gun Game: A simple game based on the classic snake-water-gun concept, offering entertainment and challenge.
+
+File Organizer - Declutter Your Folder: A utility for automatically organizing files within a folder based on predefined rules, reducing clutter and improving organization.
+
+Wellness Reminder - Stay Energized and Focused: A program to promote a healthy lifestyle and productivity by providing reminders for breaks, hydration, and exercises.
+
+Railway Announcement Software: Software designed to automate train announcements, improving efficiency and accuracy in public transportation communication.
+
+Smart Library Management System: A system to streamline library operations, including user management, book borrowing, and returns.
+Note :- You will need to run it as Administrator.
+
+Third Umpire Decision Review System: A tool for reviewing cricket decisions with options for both manual and automated outcomes.
+
+Tic-Tac-Toe: A classic game of tic-tac-toe with options for single-player against the computer or two-player mode.

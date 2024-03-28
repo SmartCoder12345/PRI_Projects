@@ -1,0 +1,15 @@
+Third Umpire Decision Review System
+Version: 1.0
+
+Welcome to the #Smart_Coder Third Umpire Decision Review System!
+
+Thank you for installing the #Smart_Coder Third Umpire Decision Review System. This system provides a virtual simulation of the third umpire decision review process, allowing users to review cricket incidents and make decisions regarding whether a batsman is out or not out. You can control video playback, analyze footage frame by frame, and make informed decisions based on the provided options.
+
+To get started, follow these steps:
+
+1. Use the playback controls to navigate through the video footage.
+2. When you're ready to make a decision, click either the "Give Out !!" or "Give Not Out !!" buttons.
+3. Confirm your decision when prompted.
+4. The system will display the decision outcome along with sponsorship messages during the review process.
+
+Enjoy the thrill of making umpiring decisions with the #Smart_Coder Third Umpire Decision Review System! For any inquiries or feedback, please report issue here -> https://github.com/SmartCoder12345/PRI_Projects/issues

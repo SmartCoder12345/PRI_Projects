@@ -1,0 +1,20 @@
+Project Name: Stay Energized and Focused
+Author: #Smart_Coder
+Version: 1.0
+
+Introduction:
+Welcome to Stay Energized and Focused! This Python program helps you stay focused and energized by providing reminders for water intake, eye exercises, and physical exercises at user-defined intervals. It aims to promote a healthy lifestyle and productivity by encouraging regular breaks and hydration.
+
+Features:
+- Provides reminders for water intake, eye exercises, and physical exercises.
+- Customizable interval settings for reminders.
+- Audio cues for reminder notifications.
+- Log of completed actions with timestamps.
+
+Author:
+This program was created by #Smart_Coder.
+
+Version History:
+- Version 1.0: Initial release.
+
+Stay energized and focused with Stay Energized and Focused!

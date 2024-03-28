@@ -1,0 +1,20 @@
+Project Name: Third Umpire Decision Review System
+Author: #Smart_Coder
+Version: 1.0
+
+Introduction:
+Welcome to the #Smart_Coder Third Umpire Decision Review System! This system provides a virtual simulation of the third umpire decision review process in cricket matches. Users can review video footage of cricket incidents and make decisions regarding whether a batsman is out or not out. The system offers options to play, pause, fast-forward, and rewind the video footage for a detailed review.
+
+Features:
+- Virtual simulation of the third umpire decision review process.
+- Video playback controls for frame-by-frame analysis.
+- Options to give out or not out based on video review.
+- Interactive user interface for easy navigation and decision-making.
+
+Author:
+The #Smart_Coder Third Umpire Decision Review System was developed by #Smart_Coder.
+
+Version History:
+- Version 1.0: Initial release.
+
+Experience the excitement of reviewing cricket decisions with the #Smart_Coder Third Umpire Decision Review System!

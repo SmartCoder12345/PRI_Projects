@@ -1,0 +1,19 @@
+Stay Energized and Focused
+Version: 1.0
+
+Welcome to Stay Energized and Focused!
+
+Thank you for installing Stay Energized and Focused. This program helps you stay focused and energized by providing reminders for water intake, eye exercises, and physical exercises at user-defined intervals.
+
+To get started, follow these steps:
+
+1. Configure the reminder intervals for water intake, eye exercises, and physical exercises when prompted.
+2. Once configured, the reminders will start automatically.
+3. When a reminder occurs, you'll hear an audio cue and be prompted to confirm if you've completed the task.
+4. After confirmation, the action will be logged with a timestamp for your reference.
+
+Remember, staying energized and focused is key to maintaining productivity and well-being!
+
+For any inquiries or feedback, please report issue here -> https://github.com/SmartCoder12345/PRI_Projects/issues
+
+Stay energized and focused with Stay Energized and Focused!
